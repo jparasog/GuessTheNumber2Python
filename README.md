@@ -1,6 +1,6 @@
 # GuessTheNumber2Python
 This programme allows the computer to pick a number between 0-100.
-The user must try to guess the random number while the qomputer give hints if is a higher or a lower number.
+The user must try to guess the random number while the computer give hints if is a higher or a lower number.
 Libraries used: Tkinter and Random
 
 
